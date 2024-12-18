@@ -11,30 +11,40 @@ The designs were created to the following widths:
 
 ## Colors
 
+### Primary
+
+#### Text
+
+- Pale Violet (sub-heading at the top of the app UI): rgb(216, 158, 255)
+- Moderate Violet (chat on the left): rgb(146, 65, 200)
+- Desaturated Dark Violet (chat on the right): rgb(110, 93, 126)
+- Grayish Blue (placeholder text): rgb(191, 192, 194)
+- Very Dark Desaturated Violet (main heading): hsl(271, 36%, 24%)
+- Dark Grayish Violet (paragraph): rgb(163, 157, 170)
+
+#### Gradients
+
+These two colors are the vibrant background colors you see throughout the design and are applied as a linear gradient:
+
+- Light Magenta: hsl(293, 100%, 63%)
+- Light Violet: rgb(136, 56, 255)
+
+### Secondary
+
 - White: hsl(0, 0%, 100%)
-
-- Stone 100: rgb(243, 230, 216)
-- Stone 150: hsl(30, 18%, 87%)
-- Stone 600: hsl(30, 10%, 34%)
-- Stone 900: hsl(24, 5%, 18%)
-
-- Brown 800: rgb(133, 70, 50)
-
-- Rose 800: rgb(123, 40, 79)
-- Rose 50: rgb(255, 245, 250)
+- Light Grayish Violet (app background): rgb(245, 243, 247)
+- Very Dark Desaturated Violet (submit button background): hsl(271, 36%, 24%)
+- Very Light Magenta (radio button outline): hsl(289, 100%, 72%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraph): 16px
+- Font size: 16px
 
-### Fonts
+### Font
 
-- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
-- Weights: 400
+- Family: [Rubik](https://fonts.google.com/specimen/Rubik)
+- Weights: 400, 500, 700
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 600, 700
-
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
